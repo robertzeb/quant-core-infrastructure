@@ -14,4 +14,5 @@ A rigorous repository tracking my journey through low-level C++ engineering, mem
 | **Mathematical Manipulation** | 12-Jun-2026 | Right-to-Left Assignment. Computer evaluates the entire right-hand expression to a single value before storing it in the left destination variable. | 10m |
 | **Control Flow & Branching** | 13-Jun-2026 | Understanding relational/logical operators, sub-conditions, and how operands act as data inputs for operators. | 48m |
 | **Hardware & Execution Forks** | 13-Jun-2026 | Mastered execution forks, CPU pipelining, branch prediction, and the nanosecond latency impacts of misprediction penalties. | 15m |
+| Control Flow & Path Latency | 13-Jun-2026 | Analyzed conditional branching (if/else if/else), the structural efficiency of switch statements, and the critical role of short-circuiting in minimizing path latency. | 37m |
 ---
