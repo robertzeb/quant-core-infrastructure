@@ -13,4 +13,5 @@ A rigorous repository tracking my journey through low-level C++ engineering, mem
 | **Data Types (`int` vs `double`)** | 12-Jun-2026 | Memory allocation boundaries. An `int` holds integers; a `double` stores precise fractions. CPU must know format before storage. | 30m |
 | **Mathematical Manipulation** | 12-Jun-2026 | Right-to-Left Assignment. Computer evaluates the entire right-hand expression to a single value before storing it in the left destination variable. | 10m |
 | **Control Flow & Branching** | 13-Jun-2026 | Understanding relational/logical operators, sub-conditions, and how operands act as data inputs for operators. | 48m |
+| **Hardware & Execution Forks** | 13-Jun-2026 | Mastered execution forks, CPU pipelining, branch prediction, and the nanosecond latency impacts of misprediction penalties. | 15m |
 ---
