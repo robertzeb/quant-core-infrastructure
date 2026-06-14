@@ -8,7 +8,7 @@ A rigorous repository tracking my journey through low-level C++ engineering, mem
 
 ## 📊 Core Progression Ledger
 
-| Module / Topic | Date Mastered | Key Concept Mastered | Time Taken |
+| Module / Topic | Date Mastered | Understood and applied | Time Taken |
 | :--- | :--- | :--- | :--- |
 | **Data Types (`int` vs `double`)** | 12-Jun-2026 | Memory allocation boundaries. An `int` holds integers; a `double` stores precise fractions. CPU must know format before storage. | 30m |
 | **Mathematical Manipulation** | 12-Jun-2026 | Right-to-Left Assignment. Computer evaluates the entire right-hand expression to a single value before storing it in the left destination variable. | 10m |
